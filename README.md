@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexandrKhr89
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python, flask and Django
+- 👀 I’m interested in PHP, Laravel, Python
+- 🌱 I’m currently learning PHP, Laravel, Python, flask and Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
